@@ -7,12 +7,12 @@ import os
 
 # !!! IMPORTANT: Replace with your actual Gemini API Key !!!
 # You can get one from Google AI Studio: https://aistudio.google.com/app/apikey
-GEMINI_API_KEY = "AIzaSyBU2_q55uVwq22bgl378ufzaquF5T-GPgo" # Example: "AIzaSy..."
+GEMINI_API_KEY = "" 
 
 # !!! IMPORTANT: Replace with the full path to your Google Cloud credentials JSON file !!!
 # This is needed for Google Cloud Speech-to-Text API.
 # Example: r"C:\path\to\your\credentials.json" or "/home/user/path/to/credentials.json"
-GOOGLE_APPLICATION_CREDENTIALS_PATH = r"C:\Users\felip\Desktop\Tudo_ou_nada\tudo-ou-nada-credencial.json"
+GOOGLE_APPLICATION_CREDENTIALS_PATH = 
 
 # Optional: Google Cloud Project ID (sometimes needed for specific Cloud APIs)
 # GOOGLE_CLOUD_PROJECT_ID = "your-project-id"
